@@ -1,0 +1,5 @@
+1.  flutter is single threaded application and the thread is called Event Loop.
+2.  Wherever a event occur it get captured in event qeue.
+3.  that event accessed by Event Loop
+4.  pub.dev : flutter libraries
+5.  models contain structure of data
